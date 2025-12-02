@@ -119,4 +119,7 @@ While the application is running, you can use the Swagger documentation to view 
 
 You can access the live version of the project and its API documentation at the following address:
 
-**[NOT YET DEPLOYED - URL WILL BE PLACED HERE]**
+API Documentation URL:
+https://estate-commission-case-production.up.railway.app/docs
+Live API URL:
+https://estate-commission-case-production.up.railway.app
